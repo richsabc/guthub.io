@@ -1,13 +1,9 @@
+# 📝 歡迎來到我的博客文章列表
+
+這裡記錄了我的日常隨筆與生活點滴：
+
+### 📅 2026 年文章
+* 📄 [深圳中心区夜色---博客测试短文](./深圳中心区夜色---博客测试短文.md)
 
 ---
-layout: default
-title: 博客文章
-permalink: /posts/
----
-
-# 博客文章
-
-{% assign articles = site.posts | sort: "date" | reverse %}
-{% for post in articles %}
-- [{{ post.title }}]({{ post.url | relative_url }}) · {{ post.date | date: "%Y-%m-%d" }}
-{% endfor %}
+[⬅️ 返回網站大首頁](../README.md)

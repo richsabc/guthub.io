@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/深圳中心区夜色---博客测试短文.md",
+                "file": "books/index.md.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "深圳中心区夜色---博客测试短文"
+              "title": "index.md"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 300
   },
   "right": {
     "id": "15fd15d954dbf01d",
@@ -191,49 +191,25 @@
   },
   "active": "46b938a6e257d302",
   "lastOpenFiles": [
-    "posts/index.md",
-    "posts/未命名.md",
-    "posts/深圳中心区夜色---博客测试短文.md",
-    "assets/images/zxq.jpg",
-    "posts/index.md.md",
-    "photos/index.md",
-    "photos/hong-kong-test.md",
-    "index.md",
-    "books/index.md",
-    "_posts/2026-10-10-market-test.md",
-    "_photos/hong-kong-test.md.bak",
-    "_layouts/default.html",
-    "_layouts/article.html",
-    "_config.yml",
-    "assets/images/hong-kong-test.jpg",
-    "assets/images/market-test.jpg.md",
-    "photos.md",
-    "index.md.md",
-    "assets/images/hong-kong-test.jpg.jpg",
+    "books/路加福音注释.pdf",
     "books/index.md.md",
     "photos/index.md.md",
-    "_posts/2026-10-10-market-test.md.md",
-    "_photos/hong-kong-test.md.md",
-    "assets/images/hong-kong-test.jpg.md",
-    "zxq 4.jpg",
-    "zxq 3.jpg",
-    "zxq 2.jpg",
-    "zxq 1.jpg",
-    "{{.md",
-    "Pasted image 20261010214128.png",
-    "README.md",
+    "posts/深圳中心区夜色---博客测试短文.md",
+    "罗马书注释加尔文文集 ((法)约翰·加尔文 著,赵中辉 任以撒 宋华忠 译) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "zxq.jpg",
+    "xhgka.jpg",
     "jjyb.jpg",
-    "_config.yml.md",
-    "i _photos ndex.md.md",
-    "_layouts/article.html.md",
-    "_layouts/default.html.md",
-    "assets/images",
-    "assets",
-    "photos/dsc3.jpg",
-    "_photos",
-    "_posts",
-    "_layouts",
-    "posts/深圳中心区夜色---博客测试短文.pdf",
-    "richsabc.github.io/README.md"
+    "posts/index.md.md",
+    "README.md",
+    "books",
+    "photos",
+    "posts",
+    "dsc3.jpg",
+    "richsabc.github.io/README.md",
+    "richsabc.github.io/Books",
+    "richsabc.github.io/新建文件夹",
+    "richsabc.github.io/Photos",
+    "richsabc.github.io/Posts",
+    "DSC_0294.jpg"
   ]
 }
