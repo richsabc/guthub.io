@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/index.md.md",
+                "file": "posts/未命名.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index.md"
+              "title": "未命名"
             }
           }
         ]
@@ -191,12 +191,17 @@
   },
   "active": "46b938a6e257d302",
   "lastOpenFiles": [
-    "photos/index.md.md",
-    "books/index.md.md",
+    "posts/深圳中心区夜色---博客测试短文.md",
+    "posts/未命名.md",
+    "assets/images/hong-kong-test.jpg",
+    "assets/images/market-test.jpg.md",
+    "photos.md",
+    "index.md.md",
     "assets/images/hong-kong-test.jpg.jpg",
+    "books/index.md.md",
+    "photos/index.md.md",
     "_posts/2026-10-10-market-test.md.md",
     "_photos/hong-kong-test.md.md",
-    "assets/images/market-test.jpg.md",
     "assets/images/hong-kong-test.jpg.md",
     "zxq 4.jpg",
     "zxq 3.jpg",
@@ -205,12 +210,10 @@
     "{{.md",
     "Pasted image 20261010214128.png",
     "posts/index.md.md",
-    "index.md.md",
     "README.md",
     "jjyb.jpg",
     "_config.yml.md",
     "i _photos ndex.md.md",
-    "posts/深圳中心区夜色---博客测试短文.md",
     "_layouts/article.html.md",
     "_layouts/default.html.md",
     "assets/images",
@@ -220,7 +223,6 @@
     "_posts",
     "_layouts",
     "zxq.jpg",
-    "xhgka.jpg",
     "posts/深圳中心区夜色---博客测试短文.pdf",
     "images",
     "books/路加福音注释.pdf",
