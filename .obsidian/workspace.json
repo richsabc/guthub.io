@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/未命名.md",
+                "file": "posts/index.md.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "index.md"
             }
           }
         ]
@@ -191,6 +191,7 @@
   },
   "active": "46b938a6e257d302",
   "lastOpenFiles": [
+    "posts/未命名.md",
     "photos/index.md",
     "photos/hong-kong-test.md",
     "index.md",
@@ -201,7 +202,6 @@
     "_layouts/article.html",
     "_config.yml",
     "posts/深圳中心区夜色---博客测试短文.md",
-    "posts/未命名.md",
     "assets/images/hong-kong-test.jpg",
     "assets/images/market-test.jpg.md",
     "photos.md",
