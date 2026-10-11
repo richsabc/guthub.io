@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/index.md.md",
+                "file": "posts/深圳中心区夜色---博客测试短文.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index.md"
+              "title": "深圳中心区夜色---博客测试短文"
             }
           }
         ]
@@ -192,6 +192,9 @@
   "active": "46b938a6e257d302",
   "lastOpenFiles": [
     "posts/未命名.md",
+    "posts/深圳中心区夜色---博客测试短文.md",
+    "assets/images/zxq.jpg",
+    "posts/index.md.md",
     "photos/index.md",
     "photos/hong-kong-test.md",
     "index.md",
@@ -201,7 +204,6 @@
     "_layouts/default.html",
     "_layouts/article.html",
     "_config.yml",
-    "posts/深圳中心区夜色---博客测试短文.md",
     "assets/images/hong-kong-test.jpg",
     "assets/images/market-test.jpg.md",
     "photos.md",
@@ -218,7 +220,6 @@
     "zxq 1.jpg",
     "{{.md",
     "Pasted image 20261010214128.png",
-    "posts/index.md.md",
     "README.md",
     "jjyb.jpg",
     "_config.yml.md",
@@ -231,7 +232,6 @@
     "_photos",
     "_posts",
     "_layouts",
-    "zxq.jpg",
     "posts/深圳中心区夜色---博客测试短文.pdf",
     "richsabc.github.io/README.md"
   ]
