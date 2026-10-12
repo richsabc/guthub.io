@@ -13,9 +13,10 @@ title: 博客
 {% for article in articles %}
 {% unless article.name == "index.md" %}
 {% assign count = count | plus: 1 %}
-- [{{ article.title | default: article.name | remove: ".md" }}]({{ article.url | relative_url }})
-{% endunless %}
-{% endfor %}
+
+* [{{ article.title | default: article.name | remove: ".md" }}]({{ article.url | relative_url }})
+  {% endunless %}
+  {% endfor %}
 
 {% if count == 0 %}
 暂时还没有发布文章。
