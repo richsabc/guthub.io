@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assets/css/style.scss.md",
+                "file": "assets/main.scss.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "style.scss"
+              "title": "main.scss"
             }
           }
         ]
@@ -191,8 +191,9 @@
   },
   "active": "46b938a6e257d302",
   "lastOpenFiles": [
-    "DSCAD.jpg",
     "assets/css/style.scss.md",
+    "assets/main.scss.md",
+    "DSCAD.jpg",
     "assets/css/未命名",
     "assets/css",
     "assets",
@@ -207,7 +208,6 @@
     "hgka2.jpg",
     "hgka3.jpg",
     "路线1 1.jpg",
-    "b11 1.jpg",
     "photos/皇岗口岸.md",
     "books/反脆弱 .pdf",
     "books/index.md",
