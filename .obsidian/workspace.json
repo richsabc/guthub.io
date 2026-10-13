@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "photos/新皇岗口岸.md",
+                "file": "assets/css/style.scss.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "新皇岗口岸"
+              "title": "style.scss"
             }
           }
         ]
@@ -191,8 +191,13 @@
   },
   "active": "46b938a6e257d302",
   "lastOpenFiles": [
-    "photos/网球摆拍.md",
+    "DSCAD.jpg",
+    "assets/css/style.scss.md",
+    "assets/css/未命名",
+    "assets/css",
+    "assets",
     "photos/新皇岗口岸.md",
+    "photos/网球摆拍.md",
     "b11.jpg",
     "路线1.jpg",
     "路线1 2.jpg",
@@ -222,9 +227,6 @@
     "photos",
     "posts",
     "richsabc.github.io/README.md",
-    "richsabc.github.io/Books",
-    "richsabc.github.io/新建文件夹",
-    "richsabc.github.io/Photos",
-    "richsabc.github.io/Posts"
+    "richsabc.github.io/Books"
   ]
 }
