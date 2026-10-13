@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "photos/网球摆拍.md",
+                "file": "photos/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "网球摆拍"
+              "title": "index"
             }
           }
         ]
@@ -191,8 +191,8 @@
   },
   "active": "46b938a6e257d302",
   "lastOpenFiles": [
-    "photos/index.md",
     "photos/网球摆拍.md",
+    "photos/index.md",
     "posts/index.md",
     "DSCAD.jpg",
     "DSCAC.jpg",
