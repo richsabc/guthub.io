@@ -26,3 +26,7 @@
   margin-top: 1.4em;
   margin-bottom: 0.5em;
 }
+
+body {
+  outline: 5px solid red !important;
+}
