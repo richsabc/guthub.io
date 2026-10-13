@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "photos/测试摄影板块.md",
+                "file": "photos/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "测试摄影板块"
+              "title": "index"
             }
           }
         ]
@@ -191,15 +191,15 @@
   },
   "active": "46b938a6e257d302",
   "lastOpenFiles": [
+    "photos/测试摄影板块.md",
+    "photos/index.md",
     "DSCAD.jpg",
     "DSCAC.jpg",
     "DSCAB.jpg",
     "DSCAA.jpg",
     "zxq.jpg",
-    "photos/测试摄影板块.md",
     "books/index.md",
     "posts/index.md",
-    "photos/index.md",
     "{{.md",
     "2026-10-13.md",
     "未命名.canvas",
