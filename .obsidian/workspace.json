@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assets/css/style.scss.md",
+                "file": "_includes/head-custom.html.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "style.scss"
+              "title": "head-custom.html"
             }
           }
         ]
@@ -191,9 +191,10 @@
   },
   "active": "46b938a6e257d302",
   "lastOpenFiles": [
+    "assets/css/style.scss.md",
+    "_includes/head-custom.html.md",
     "assets/main.scss.md",
     "assets/main.scss",
-    "assets/css/style.scss.md",
     "DSCAD.jpg",
     "assets/css/未命名",
     "assets/css",
