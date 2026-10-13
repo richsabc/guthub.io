@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: 电子书
@@ -9,7 +10,13 @@ title: 电子书
 
 ## 📖 精选藏书
 
-- [路加福音注释（PDF）：在线阅读或下载]({{ '/books/路加福音注释.pdf' | relative_url }})
+{% assign ebook_files = site.static_files | where_exp: "file", "file.path contains '/books/'" | sort: "name" %}
+{% for file in ebook_files %}
+  {% assign ext = file.extname | downcase %}
+  {% if ext == ".pdf" or ext == ".epub" %}
+- [{{ file.name }}]({{ file.path | relative_url }})
+  {% endif %}
+{% endfor %}
 
 ---
 
