@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/深圳中心区夜色---博客测试短文.md",
-                "mode": "preview",
+                "file": "index.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "深圳中心区夜色---博客测试短文"
+              "title": "index"
             }
           }
         ]
@@ -191,6 +191,8 @@
   },
   "active": "213b341e4dc4fefd",
   "lastOpenFiles": [
+    "README.md",
+    "posts/深圳中心区夜色---博客测试短文.md",
     "photos/网球摆拍.md",
     "xhgka.jpg",
     "books/东周列国志（上下）(华夏英雄传系列)(冯梦龙蔡元放编黄钧校注) 3.epub",
@@ -212,7 +214,6 @@
     "DSCAC 1.jpg",
     "DSCAB 1.jpg",
     "photos/新皇岗口岸.md",
-    "posts/深圳中心区夜色---博客测试短文.md",
     "_includes/custom-head.html.md",
     "assets/css/style.scss.md",
     "assets/main.scss.md",
@@ -227,7 +228,6 @@
     "books/index.md.md",
     "photos/index.md.md",
     "posts/index.md.md",
-    "README.md",
     "richsabc.github.io/README.md"
   ]
 }
