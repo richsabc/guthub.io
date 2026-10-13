@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_includes/head-custom.html.md",
+                "file": "_includes/custom-head.html.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "head-custom.html"
+              "title": "custom-head.html"
             }
           }
         ]
@@ -192,7 +192,7 @@
   "active": "46b938a6e257d302",
   "lastOpenFiles": [
     "assets/css/style.scss.md",
-    "_includes/head-custom.html.md",
+    "_includes/custom-head.html.md",
     "assets/main.scss.md",
     "assets/main.scss",
     "DSCAD.jpg",
