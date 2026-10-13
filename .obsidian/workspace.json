@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assets/main.scss.md",
+                "file": "assets/css/style.scss.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "main.scss"
+              "title": "style.scss"
             }
           }
         ]
@@ -191,8 +191,9 @@
   },
   "active": "46b938a6e257d302",
   "lastOpenFiles": [
-    "assets/css/style.scss.md",
     "assets/main.scss.md",
+    "assets/main.scss",
+    "assets/css/style.scss.md",
     "DSCAD.jpg",
     "assets/css/未命名",
     "assets/css",
@@ -226,7 +227,6 @@
     "books",
     "photos",
     "posts",
-    "richsabc.github.io/README.md",
-    "richsabc.github.io/Books"
+    "richsabc.github.io/README.md"
   ]
 }
