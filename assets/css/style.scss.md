@@ -4,20 +4,25 @@
 
 @import "minima";
 
+/* 文章主标题 */
 .post-title {
-  font-size: 30px;
+  font-size: 26px;
+  line-height: 1.4;
 }
 
+/* 正文 */
 .post-content,
 .page-content {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.8;
 }
 
+/* 二级标题：接近正文大小 */
 .post-content h2,
 .page-content h2 {
-  font-size: 19px;
-  line-height: 1.5;
-  margin-top: 1.5em;
-  margin-bottom: 0.6em;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.6;
+  margin-top: 1.4em;
+  margin-bottom: 0.5em;
 }
