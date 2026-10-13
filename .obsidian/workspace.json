@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "photos/index.md",
+                "file": "photos/网球摆拍.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "网球摆拍"
             }
           }
         ]
@@ -191,13 +191,14 @@
   },
   "active": "46b938a6e257d302",
   "lastOpenFiles": [
-    "photos/网球摆拍.md",
-    "photos/index.md",
-    "posts/index.md",
     "DSCAD.jpg",
     "DSCAC.jpg",
     "DSCAB.jpg",
     "DSCAA.jpg",
+    "photos/index.md",
+    "photos/网球摆拍.md",
+    "photos/网球摆拍.md",
+    "posts/index.md",
     "zxq.jpg",
     "books/index.md",
     "{{.md",
