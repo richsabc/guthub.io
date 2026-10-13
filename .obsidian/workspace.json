@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/index.md",
+                "file": "photos/皇岗口岸.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "皇岗口岸"
             }
           }
         ]
@@ -191,10 +191,14 @@
   },
   "active": "46b938a6e257d302",
   "lastOpenFiles": [
+    "hgga1.jpg",
+    "photos/皇岗口岸.md",
+    "hgka3.jpg",
+    "hgka2.jpg",
+    "photos/网球摆拍.md",
+    "books/index.md",
     "books/路加福音注释.pdf",
     "books/反脆弱 .pdf",
-    "books/index.md",
-    "photos/网球摆拍.md",
     "posts/深圳中心区夜色---博客测试短文.md",
     "photos/index.md",
     "DSCAD.jpg",
@@ -211,18 +215,15 @@
     "photos/index.md.md",
     "罗马书注释加尔文文集 ((法)约翰·加尔文 著,赵中辉 任以撒 宋华忠 译) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "xhgka.jpg",
-    "jjyb.jpg",
     "posts/index.md.md",
     "README.md",
     "books",
     "photos",
     "posts",
-    "dsc3.jpg",
     "richsabc.github.io/README.md",
     "richsabc.github.io/Books",
     "richsabc.github.io/新建文件夹",
     "richsabc.github.io/Photos",
-    "richsabc.github.io/Posts",
-    "DSC_0294.jpg"
+    "richsabc.github.io/Posts"
   ]
 }
