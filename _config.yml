@@ -1,7 +1,8 @@
-title: 我的个人空间
-description: 博客、摄影与电子书
+title: ""
+description: ""
 theme: minima
 markdown: kramdown
 permalink: pretty
 
-header_pages: []
+header_pages:
+  - _no_header_links_.md
