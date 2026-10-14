@@ -8,7 +8,7 @@ layout: default
 
 | 📝 博客 | 📷 摄影 | 📚 电子书 |
 |:---:|:---:|:---:|
-| [进入博客]({{ '/posts/' | relative_url }}) | [进入摄影]({{ '/photos/' | relative_url }}) | [浏览电子书]({{ '/books/' | relative_url }}) |
+| [点此进入文章列表]({{ '/posts/' | relative_url }}) | [点此进入照片展示]({{ '/photos/' | relative_url }}) | [点此浏览电子书]({{ '/books/' | relative_url }}) |
 
 ---
 
