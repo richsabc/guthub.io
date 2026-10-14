@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "posts/深圳中心区夜色---博客测试短文.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "深圳中心区夜色---博客测试短文"
             }
           }
         ]
@@ -191,6 +191,7 @@
   },
   "active": "213b341e4dc4fefd",
   "lastOpenFiles": [
+    "index.md",
     "README.md",
     "posts/深圳中心区夜色---博客测试短文.md",
     "photos/网球摆拍.md",
