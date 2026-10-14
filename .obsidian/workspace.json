@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/index.md",
+                "file": "posts/建站小记.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "建站小记"
             }
           }
         ]
@@ -191,20 +191,24 @@
   },
   "active": "213b341e4dc4fefd",
   "lastOpenFiles": [
+    "56.jpg",
+    "57.jpg",
+    "posts/深圳中心区夜色.md",
+    "posts/建站小记.md",
+    "photos/index.md",
+    "photos/网球摆拍.md",
+    "DSCAA.jpg",
+    "books/反脆弱 .pdf",
     "posts/index.md",
     "books/index.md",
-    "photos/index.md",
-    "posts/深圳中心区夜色.md",
+    "books/路加福音注释.pdf",
     "index.md",
     "README.md",
-    "photos/网球摆拍.md",
     "xhgka.jpg",
     "books/东周列国志（上下）(华夏英雄传系列)(冯梦龙蔡元放编黄钧校注) 3.epub",
     "zuance 1.jpg",
     "zuance 2.jpg",
     "books/东周列国志（上下）(华夏英雄传系列)(冯梦龙蔡元放编黄钧校注) 2.epub",
-    "books/路加福音注释.pdf",
-    "books/反脆弱 .pdf",
     "books/东周列国志（上下）(华夏英雄传系列)(冯梦龙蔡元放编黄钧校注) 1.epub",
     "books/东周列国志（上下）(华夏英雄传系列)(冯梦龙蔡元放编黄钧校注).epub",
     "assets/css/custom.css",
@@ -215,13 +219,11 @@
     "DSCAB.jpg",
     "DSCAD 1.jpg",
     "DSCAC 1.jpg",
-    "DSCAB 1.jpg",
     "photos/新皇岗口岸.md",
     "_includes/custom-head.html.md",
     "assets/css/style.scss.md",
     "assets/main.scss.md",
     "assets/main.scss",
-    "b11.jpg",
     "photos/皇岗口岸.md",
     "{{.md",
     "2026-10-13.md",
