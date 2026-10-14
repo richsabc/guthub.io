@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/深圳中心区夜色.md",
+                "file": "posts/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "深圳中心区夜色"
+              "title": "index"
             }
           }
         ]
@@ -191,9 +191,9 @@
   },
   "active": "213b341e4dc4fefd",
   "lastOpenFiles": [
+    "posts/深圳中心区夜色.md",
     "index.md",
     "README.md",
-    "posts/深圳中心区夜色.md",
     "photos/网球摆拍.md",
     "xhgka.jpg",
     "books/东周列国志（上下）(华夏英雄传系列)(冯梦龙蔡元放编黄钧校注) 3.epub",

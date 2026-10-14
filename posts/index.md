@@ -5,7 +5,7 @@ title: 博客
 
 # 📝 我的博客
 
-这里记录日常随笔、生活观察与摄影文章。
+这里记录日常随笔。
 
 <ul>
 {% assign articles = site.pages | where_exp: "p", "p.url contains '/posts/'" | sort: "url" %}
