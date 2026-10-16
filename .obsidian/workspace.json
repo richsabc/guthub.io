@@ -11,14 +11,12 @@
             "id": "213b341e4dc4fefd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "photos/网球摆拍.md",
-                "mode": "source",
-                "source": true
+                "file": "hgka3.jpg"
               },
-              "icon": "lucide-file",
-              "title": "网球摆拍"
+              "icon": "lucide-image",
+              "title": "hgka3"
             }
           }
         ]
@@ -191,8 +189,10 @@
   },
   "active": "213b341e4dc4fefd",
   "lastOpenFiles": [
-    "photos/测试附件存放位置.md",
+    "hgka2.jpg",
+    "hgga1.jpg",
     "photos/网球摆拍.md",
+    "photos/测试附件存放位置.md",
     "DSCAA.jpg",
     "assets/images/wanqiu-DSCAB.jpg",
     "assets/images/wq-DSCAC.jpg",
@@ -205,8 +205,6 @@
     "xhgka.jpg",
     "jjyb.jpg",
     "index.md",
-    "hgka2.jpg",
-    "hgga1.jpg",
     "未命名.canvas",
     "assets/css/style.scss.md",
     "posts/建站小记.md",
