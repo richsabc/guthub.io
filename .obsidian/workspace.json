@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "photos/网球摆拍.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "网球摆拍"
             }
           }
         ]
@@ -191,8 +191,14 @@
   },
   "active": "213b341e4dc4fefd",
   "lastOpenFiles": [
-    "{{.md",
+    "DSCAA.jpg",
+    "photos/网球摆拍.md",
+    "assets/images/wanqiu-DSCAB.jpg",
+    "assets/images/wq-DSCAC.jpg",
+    "assets/images/wqDSCAD.jpg",
+    "assets/images/wq-DSCAA.jpg",
     "README.md",
+    "{{.md",
     "test-frontmatter.md",
     "zxq.jpg",
     "xhgka.jpg",
@@ -201,14 +207,9 @@
     "hgka2.jpg",
     "hgga1.jpg",
     "dsc3.jpg",
-    "DSCAA.jpg",
     "未命名.canvas",
-    "57.jpg",
-    "56.jpg",
     "photos/测试附件存放位置.md",
-    "assets/images/zxq1.jpg",
     "assets/css/style.scss.md",
-    "photos/网球摆拍.md",
     "posts/建站小记.md",
     "assets/images",
     "posts/深圳中心区夜色.md",
