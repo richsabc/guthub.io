@@ -11,12 +11,12 @@
             "id": "213b341e4dc4fefd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "hgka3.jpg"
+                "file": "books/反脆弱 .pdf"
               },
-              "icon": "lucide-image",
-              "title": "hgka3"
+              "icon": "lucide-file-text",
+              "title": "反脆弱"
             }
           }
         ]
@@ -189,8 +189,11 @@
   },
   "active": "e2e8d042f4e771e1",
   "lastOpenFiles": [
-    "books/基督教要义-加尔文.pdf",
+    "books/《红楼梦上中下三册合集》 2.docx",
+    "books/《红楼梦上中下三册合集》 1.docx",
+    "books/《红楼梦上中下三册合集》.docx",
     "hgka3.jpg",
+    "books/基督教要义-加尔文.pdf",
     "hgka2.jpg",
     "hgga1.jpg",
     "photos/网球摆拍.md",
@@ -220,9 +223,6 @@
     "books/东周列国志（上下）(华夏英雄传系列)(冯梦龙蔡元放编黄钧校注) 2.epub",
     "books/东周列国志（上下）(华夏英雄传系列)(冯梦龙蔡元放编黄钧校注) 1.epub",
     "books/东周列国志（上下）(华夏英雄传系列)(冯梦龙蔡元放编黄钧校注).epub",
-    "assets/css/custom.css",
-    "_includes/head.html",
-    "_includes/custom-head.html",
     "photos/新皇岗口岸.md",
     "_includes/custom-head.html.md",
     "assets/main.scss.md",
