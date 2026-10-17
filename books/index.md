@@ -13,7 +13,9 @@ title: 电子书
 {% assign ebook_files = site.static_files | where_exp: "file", "file.path contains '/books/'" | sort: "name" %}
 {% for file in ebook_files %}
   {% assign ext = file.extname | downcase %}
-  {% if ext == ".pdf" or ext == ".epub" %}
+ 
+{% if ext == ".pdf" or ext == ".epub" or ext == ".doc" or ext == ".docx" or ext == ".txt" or ext == ".mobi" or ext == ".azw" or ext == ".azw3" or ext == ".html" or ext == ".htm" or ext == ".rtf" or ext == ".md" or ext == ".fb2" or ext == ".djvu" %}
+
 - [{{ file.name }}]({{ file.path | relative_url }})
   {% endif %}
 {% endfor %}
