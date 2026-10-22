@@ -11,14 +11,12 @@
             "id": "213b341e4dc4fefd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "books/index.md",
-                "mode": "source",
-                "source": true
+                "file": "hgga1.jpg"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "hgga1"
             }
           }
         ]
@@ -161,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/index.md",
+                "file": "hgga1.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,6 +188,23 @@
   },
   "active": "213b341e4dc4fefd",
   "lastOpenFiles": [
+    "jjyb.jpg",
+    "xhgka.jpg",
+    "zxq.jpg",
+    "index.md",
+    "hgka3.jpg",
+    "hgka2.jpg",
+    "hgga1.jpg",
+    "posts/深圳中心区夜色.md",
+    "assets/images/xhgka.jpg",
+    "assets/images/jinji.jpg",
+    "assets/images/zxqu.jpg",
+    "posts/建站小记.md",
+    "photos/新皇岗口岸.md",
+    "photos/网球摆拍.md",
+    "assets/images/wanqiu1.jpg",
+    "assets/images/wanqiu4.jpg",
+    "books/index.md",
     "books/红楼梦 2.docx",
     "books/红楼梦 1.docx",
     "books/反脆弱 .pdf",
@@ -197,34 +212,17 @@
     "books/《红楼梦上中下三册合集》 2.docx",
     "books/《红楼梦上中下三册合集》 1.docx",
     "books/《红楼梦上中下三册合集》.docx",
-    "hgka3.jpg",
     "books/基督教要义-加尔文.pdf",
-    "hgka2.jpg",
-    "hgga1.jpg",
-    "photos/网球摆拍.md",
     "photos/测试附件存放位置.md",
-    "DSCAA.jpg",
-    "assets/images/wanqiu-DSCAB.jpg",
-    "assets/images/wq-DSCAC.jpg",
-    "assets/images/wqDSCAD.jpg",
-    "assets/images/wq-DSCAA.jpg",
     "README.md",
     "{{.md",
     "test-frontmatter.md",
-    "zxq.jpg",
-    "xhgka.jpg",
-    "index.md",
     "未命名.canvas",
     "assets/css/style.scss.md",
-    "posts/建站小记.md",
     "assets/images",
-    "posts/深圳中心区夜色.md",
     "photos/index.md",
     "posts/index.md",
-    "books/index.md",
     "books/路加福音注释.pdf",
-    "books/东周列国志（上下）(华夏英雄传系列)(冯梦龙蔡元放编黄钧校注) 3.epub",
-    "photos/新皇岗口岸.md",
     "_includes/custom-head.html.md",
     "assets/main.scss.md",
     "photos/皇岗口岸.md",
