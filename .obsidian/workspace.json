@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSC_0294.jpg",
+                "file": "books/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,7 +188,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "e2e8d042f4e771e1",
+  "active": "213b341e4dc4fefd",
   "lastOpenFiles": [
     "books/红楼梦 2.docx",
     "books/红楼梦 1.docx",
