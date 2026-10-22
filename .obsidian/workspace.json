@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "photos/网球摆拍.md",
+                "file": "posts/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "网球摆拍"
+              "title": "index"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "photos/网球摆拍.md",
+                "file": "posts/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,9 +190,13 @@
   },
   "active": "213b341e4dc4fefd",
   "lastOpenFiles": [
+    "photos/index.md",
     "photos/新皇岗口岸.md",
+    "posts/建站小记.md",
     "posts/深圳中心区夜色.md",
     "photos/网球摆拍.md",
+    "assets/images/wq-DSCAA.jpg",
+    "posts/index.md",
     "hgga1.jpg",
     "jjyb.jpg",
     "xhgka.jpg",
@@ -203,8 +207,6 @@
     "assets/images/xhgka.jpg",
     "assets/images/jinji.jpg",
     "assets/images/zxqu.jpg",
-    "posts/建站小记.md",
-    "assets/images/wanqiu1.jpg",
     "books/index.md",
     "books/红楼梦 2.docx",
     "books/红楼梦 1.docx",
@@ -221,8 +223,6 @@
     "未命名.canvas",
     "assets/css/style.scss.md",
     "assets/images",
-    "photos/index.md",
-    "posts/index.md",
     "books/路加福音注释.pdf",
     "_includes/custom-head.html.md",
     "assets/main.scss.md",
