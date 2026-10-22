@@ -11,12 +11,14 @@
             "id": "213b341e4dc4fefd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "hgga1.jpg"
+                "file": "photos/网球摆拍.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "hgga1"
+              "icon": "lucide-file",
+              "title": "网球摆拍"
             }
           }
         ]
@@ -159,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hgga1.jpg",
+                "file": "photos/网球摆拍.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,13 +190,13 @@
   },
   "active": "213b341e4dc4fefd",
   "lastOpenFiles": [
+    "hgga1.jpg",
     "jjyb.jpg",
     "xhgka.jpg",
     "zxq.jpg",
     "index.md",
     "hgka3.jpg",
     "hgka2.jpg",
-    "hgga1.jpg",
     "posts/深圳中心区夜色.md",
     "assets/images/xhgka.jpg",
     "assets/images/jinji.jpg",
