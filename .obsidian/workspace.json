@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/深圳中心区夜色.md",
+                "file": "photos/网球摆拍.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "深圳中心区夜色"
+              "title": "网球摆拍"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/深圳中心区夜色.md",
+                "file": "photos/网球摆拍.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,6 +191,7 @@
   "active": "213b341e4dc4fefd",
   "lastOpenFiles": [
     "photos/新皇岗口岸.md",
+    "posts/深圳中心区夜色.md",
     "photos/网球摆拍.md",
     "hgga1.jpg",
     "jjyb.jpg",
@@ -199,7 +200,6 @@
     "index.md",
     "hgka3.jpg",
     "hgka2.jpg",
-    "posts/深圳中心区夜色.md",
     "assets/images/xhgka.jpg",
     "assets/images/jinji.jpg",
     "assets/images/zxqu.jpg",
