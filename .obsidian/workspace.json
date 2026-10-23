@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/index.md",
+                "file": "photos/深圳图书馆北馆--附美术馆.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "深圳图书馆北馆--附美术馆"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/index.md",
+                "file": "photos/深圳图书馆北馆--附美术馆.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,23 +190,24 @@
   },
   "active": "213b341e4dc4fefd",
   "lastOpenFiles": [
-    "photos/index.md",
-    "photos/新皇岗口岸.md",
-    "posts/建站小记.md",
-    "posts/深圳中心区夜色.md",
     "photos/网球摆拍.md",
-    "assets/images/wq-DSCAA.jpg",
+    "photos/深圳图书馆北馆--附美术馆.md",
+    "photos/新皇岗口岸.md",
+    "posts/深圳中心区夜色.md",
+    "assets/images/tusuguan-07 1.jpg",
+    "assets/images/tusuguan-07.jpg",
+    "assets/images/tusuguan-09.jpg",
+    "assets/images/tusuguan-10.jpg",
+    "assets/images/tusuguan-08.jpg",
+    "assets/images/tusuguan-13.jpg",
+    "assets/images/tusuguan-05 1.jpg",
+    "assets/images/tusuguan-05.jpg",
+    "assets/images/tusuguan-03.jpg",
+    "assets/images/tusuguan-14.jpg",
+    "posts/建站小记.md",
     "posts/index.md",
-    "hgga1.jpg",
-    "jjyb.jpg",
-    "xhgka.jpg",
-    "zxq.jpg",
+    "photos/index.md",
     "index.md",
-    "hgka3.jpg",
-    "hgka2.jpg",
-    "assets/images/xhgka.jpg",
-    "assets/images/jinji.jpg",
-    "assets/images/zxqu.jpg",
     "books/index.md",
     "books/红楼梦 2.docx",
     "books/红楼梦 1.docx",
